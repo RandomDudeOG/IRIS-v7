@@ -1,0 +1,8 @@
+{
+  "name": "IRIS - Intelligent Reactive Interface System",
+  "description": "A futuristic, voice-first AI assistant with biometric security and real-time voice visualization.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
