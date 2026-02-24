@@ -6,7 +6,7 @@ import actionRoutes from "./backend/actionRoutes";
 
 async function startServer() {
   const app = express();
-  const PORT = 3000;
+  const PORT = 5174;
 
   // Middleware to parse JSON bodies
   app.use(express.json());
